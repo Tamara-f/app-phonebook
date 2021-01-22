@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoURI": "mongodb+srv://admin:admin@goit.mfdap.mongodb.net/hw-03?retryWrites=true",
+  "JWTSecret": "tamara filatova phonebook",
+  "baseUrl": "http://localhost:5000"
+}
